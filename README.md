@@ -30,4 +30,9 @@ s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.teritorid/config/config.toml
 
-sudo systemctl restart teritorid && journalctl -u teritorid -f -o cat```
+sudo systemctl restart teritorid && journalctl -u teritorid -f -o cat
+```
+
+# RESTAKE APP
+
+https://restake.app/teritori/torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u/delegate
