@@ -1,4 +1,6 @@
 
+## [𝐫𝐨𝐦𝐚𝐧✔︎𝟏𝟖𝟏𝟐℠ 🧩](https://teritori.explorers.guru/validator/torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u) URL SERVICE
+
 |Service|URL|
 |:---:|---|
 **RPC**|**```78.46.16.236:44657```**
